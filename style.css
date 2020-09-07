@@ -1,0 +1,23 @@
+        body {
+            margin: 0;
+            padding: 0;
+            max-width: 1024px;
+            padding-top: 40px;
+            font-family: "Open Sans", "Tahoma", sans-serif;
+            text-align: center;
+            line-height: 160%;
+        }
+
+        main {
+            text-align: left;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .photo {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+        }
