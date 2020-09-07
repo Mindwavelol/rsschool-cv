@@ -25,8 +25,8 @@ I have no commercial experience yet.
 `2014-2018` **Saint Petersburg State University of Aerospace Instrumentation.**
 
 **Self-education:**
-* HTML Academy: HTML & CSS basics
-* Web Studio [Berloga13] HTML & CSS
+* HTML Academy: *HTML & CSS basics*
+* Web Studio: *[Berloga13] HTML & CSS*
 
 ## English 
 
