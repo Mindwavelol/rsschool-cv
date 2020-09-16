@@ -1,23 +1,50 @@
-        body {
-            margin: 0;
-            padding: 0;
-            max-width: 1024px;
-            padding-top: 40px;
-            font-family: "Open Sans", "Tahoma", sans-serif;
-            text-align: center;
-            line-height: 160%;
-        }
+body {
+    margin: 0;
+    padding: 0;
+    max-width: 1024px;
+    padding-top: 40px;
+    font-family: "Open Sans", "Tahoma", sans-serif;
+    line-height: 160%;
+    color: #
+}
 
-        main {
-            text-align: left;
-        }
+main {}
 
-        a {
-            text-decoration: none;
-        }
+a {
+    text-decoration: none;
+    color: #484848;
+}
 
-        .photo {
-            width: 200px;
-            height: 200px;
-            border-radius: 50%;
-        }
+li {
+    list-style-type: none;
+}
+
+p {
+    color: #484848;
+    
+}
+
+.content {
+    text-align: center;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+h1,
+h2 {
+    color: #FF922D;
+}
+.skills {
+ 
+}
+.emoji {
+    font-size: 25px;
+    color: #FF922D;
+}
+
+.skills-html {
+}
